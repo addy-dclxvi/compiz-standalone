@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Compiz
+Comment=Log in using the Compiz window manager (without a session manager)
+Exec=/usr/bin/compiz-session.sh
+Icon=compiz
+Type=Application
