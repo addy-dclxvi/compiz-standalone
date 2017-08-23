@@ -38,7 +38,7 @@
 #(sleep 3; clipit) &
 
 ## XFCE4 Settings daemon
-xfsettingsd &
+#xfsettingsd &
 
 ## Start xscreensaver
 #xscreensaver -no-splash &
